@@ -1,0 +1,140 @@
+.home-restarunt-img{
+    height: 225px;
+}
+
+.Rating{
+    display: inline-block;
+}
+.bike{
+    margin-left: 12px;
+}
+
+.star-logo{
+    color:white;
+    display: flex;
+    padding: 2px 0px;
+   
+   
+    
+}
+.circle-star-logo{
+    border:  2px solid green;
+    background-color: green;
+    width: 24px;
+    height: 24px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px;
+    margin-right: 4px;
+    
+   
+}
+
+.Food-star-logo{
+
+    color:white;
+    display: flex;
+    padding: 2px 0px;
+
+
+}
+.Food-circle-star-logo{
+    border:  2px solid goldenrod;
+    background-color: goldenrod;
+    width: 24px;
+    height: 24px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px;
+    margin-right: 4px;
+
+}
+
+.header{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: aquamarine;
+    
+}
+
+.searchBar{
+    width: 40%;
+    padding: 30px 0px;
+}
+
+.LocationBar{
+    padding: 30px 0px;
+}
+
+
+.locationList-group:hover{
+
+    color:brown;
+    
+}
+
+.items-img{
+    height: 150px;
+}
+.card-text{
+    margin: 2px;
+}
+
+.vegODIV{
+    border:  1px solid green;
+    width: 16px;
+    height: 16px;
+    display: flex;
+    justify-content: center;
+}
+.vegIDIV{
+    border:  1px solid green;
+    width: 10px;
+    height: 10px;
+    border-radius: 5px;
+    margin-top: 2px;
+    background-color: green;
+}
+.isVeg{
+    display: inline-block;
+}
+.isNONVeg{
+    display: inline-block;
+}
+.NvegODIV{
+    border:  1px solid red;
+    width: 16px;
+    height: 16px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+.NvegIDIV{
+    border:  1px solid red;
+    width: 10px;
+    height: 10px;
+    border-radius: 5px;
+    margin-top: 2px;
+    background-color:red;
+}
+
+.CartImg{
+    height: 205px;
+    width: 100%;
+   margin: 1px;
+    
+}
+.MainCard{
+    height: 210px;
+    margin: 20px;
+}
+
+.dish-img{
+    height: 150px;
+
+}
